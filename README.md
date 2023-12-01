@@ -14,7 +14,15 @@ Calculadora que realiza cálculos estatísticos como média, variância e correl
 
 ## ⬇️ Download do projeto
 
-Faça o download do projeto clicando <a href='' download>aqui</a>
+Faça o download do projeto clicando <a href='https://github.com/leandro-pessoa/calculadora_estatistica/archive/refs/heads/main.zip' download>aqui</a>
+
+## Executando o projeto
+
+Realize o download acima e realize os seguintes passos:
+
+
+
+
 
 
 
