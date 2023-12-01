@@ -1,7 +1,7 @@
 import React, { ChangeEvent, KeyboardEvent } from 'react'
 import './App.css'
 
-import Calculos from '../componentes/Calculos'
+import Calculos from './componentes/Calculos'
 
 type Props = {
 
