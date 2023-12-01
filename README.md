@@ -16,9 +16,29 @@ Calculadora que realiza cálculos estatísticos como média, variância e correl
 
 Faça o download do projeto clicando <a href='https://github.com/leandro-pessoa/calculadora_estatistica/archive/refs/heads/main.zip' download>aqui</a>
 
-## Executando o projeto
+## 🛠️ Executando o projeto
 
-Realize o download acima e realize os seguintes passos:
+Realize o download acima, entre na pasta do projeto (depois de descompactá-la) no terminal e rode:
+
+~~~~
+npm run dev
+~~~~
+
+## ⚛️ Tecnologias utilizadas
+
+As principais tecnlogias utilizadas foram:
+
+- `React`
+- `Typescript`
+
+## :hurtrealbad: Desenvolvedor
+
+Desenvolvido por [Leandro Pessoa](https://github.com/leandro-pessoa)
+
+
+
+
+
 
 
 
